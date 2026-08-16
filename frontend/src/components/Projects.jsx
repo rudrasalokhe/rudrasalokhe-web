@@ -26,7 +26,7 @@ export default function Projects({ projects }) {
     <section className="projects" id="projects" ref={ref}>
       <div className="section-header fade-up">
         <h2 className="section-title">
-          Impressive Works
+          Projects
         </h2>
         <p className="section-subtitle">
           A SELECTION OF PROJECTS THAT SHOWCASE MY PASSION FOR DESIGN AND
